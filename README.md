@@ -1,61 +1,16 @@
-ImPoor Flutter App -
-- Introduction
-The "ImPoor" Flutter app is a simple mobile application developed using the Flutter framework. It serves as a playful representation of a financial state, humorously suggesting a state of poverty through its minimalist design.
+# im_poor_flutter
 
-1. App Bar with Custom Styling
-The app features a custom-styled app bar at the top of the screen, designed to enhance the overall visual appeal. The app bar has a distinctive background color, providing a unique and consistent theme for the app.
+A new Flutter project.
 
-dart
-Copy code
-AppBar(
-  title: const Center(
-    child: Text(
-      "ImPoor",
-      style: TextStyle(
-        fontWeight: FontWeight.bold,
-        color: Colors.white,
-      ),
-    ),
-  ),
-  backgroundColor: Colors.blueGrey[900],
-)
-2. Stone Image in the Body
-The main content of the app is centered around a stone image displayed in the body. The stone image serves as a visual metaphor for financial scarcity, adding a touch of humor to the app.
+## Getting Started
 
-dart
-Copy code
-body: Center(
-  child: Image(
-    image: AssetImage('images/diamond.png'),
-  ),
-),
-Getting Started
-To run the "ImPoor" app locally, follow these steps:
+This project is a starting point for a Flutter application.
 
-Ensure you have Flutter installed on your machine.
+A few resources to get you started if this is your first Flutter project:
 
-Clone the repository from GitHub:
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-bash
-Copy code
-git clone [https://github.com/priyanshusharma44/ImPoor-Flutter-App](https://github.com/priyanshusharma44/Flutter_Im_Poor).git
-Navigate to the project directory:
-
-bash
-Copy code
-cd ImPoor-Flutter-App
-Run the app:
-
-bash
-Copy code
-flutter run
-Contributing
-Contributions to the "ImPoor" app are welcome! If you have ideas for improvements, feature requests, or bug reports, feel free to open issues on the GitHub repository.
-
-License
-This project is licensed under the MIT License.
-
-Acknowledgments
-Flutter: A UI toolkit by Google for building natively compiled applications for mobile, web, and desktop from a single codebase.
-Material Design: Google's design language that provides a consistent look and feel across platforms.
-Feel free to customize and expand upon the "ImPoor" app to suit your preferences or use it as a starting point for learning Flutter development. Happy coding! 🚀
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
