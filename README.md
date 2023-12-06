@@ -40,7 +40,7 @@ Clone the repository from GitHub:
 
 bash
 Copy code
-git clone https://github.com/priyanshusharma44/ImPoor-Flutter-App.git
+git clone [https://github.com/priyanshusharma44/ImPoor-Flutter-App](https://github.com/priyanshusharma44/Flutter_Im_Poor).git
 Navigate to the project directory:
 
 bash
