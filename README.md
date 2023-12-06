@@ -1,8 +1,8 @@
-ImPoor Flutter App
-Introduction
+ImPoor Flutter App -
+
+- Introduction
 The "ImPoor" Flutter app is a simple mobile application developed using the Flutter framework. It serves as a playful representation of a financial state, humorously suggesting a state of poverty through its minimalist design.
 
-.........********************>>>>>>>>>>>>>>>>>>>>>>((((((((()))))))))))))))((((((((((((()))))))))))))>>>>>>>>>>>>>>**************&&&&&&&&&&&
 
 1. App Bar with Custom Styling
 The app features a custom-styled app bar at the top of the screen, designed to enhance the overall visual appeal. The app bar has a distinctive background color, providing a unique and consistent theme for the app.
